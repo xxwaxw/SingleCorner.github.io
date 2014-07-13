@@ -10,6 +10,8 @@ group: navigation
 
 还好，有点程序猿的基因，所以，jekyll就这样被我玩起来了，其实我是想往RoR上发展滴，先拿jekyll练手，顺便早就想搭自己的BLOG了，只是都觉得太中庸了。jekyll不是每个人都能玩的转的，这里，还要感谢[星宇大神][github]，在此人的怂恿下，开始学习ruby。
 
-好了，2014年06月05日，我的BLOG正式成立了。先post点东西出来，然后再考虑上布局，例如bootstrap神马的。
+好了，2014年06月05日，我的部落格正式成立了。先post点东西出来，然后再考虑上布局，例如bootstrap神马的。
+
+2014年07月13日下午3点，经过了2天的折腾，终于把jekyll-bootstrap搭完了，不过因为disqus的广告问题尚未解决，就把评论先关掉了。
 
 [github]: https://github.com/xingrz

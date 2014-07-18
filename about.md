@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于本博 
+title:  历程
 permalink: /about/
 group: navigation
 ---

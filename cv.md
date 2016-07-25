@@ -2,7 +2,7 @@
 layout: page
 title:  个人简历
 permalink: /cv
-group: navigation
+<!-- group: navigation -->
 ---
 
 # 梁振一_运维开发工程师_18221155074

@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  历程
-permalink: /about/
-group: navigation
+permalink: /about
+<!-- group: navigation -->
 ---
 毕业之后，本来打算从事UNIX服务器的维护工作，曾以为能当一名AIXer。但是，现实把我打败了，能接触到AIX系统级维护的工作，那是不可能滴。曾在宇宙第一大行捣腾过11个月的（哦，不对，应该是10个月）的IBM POWER系列小型机，但是，工作中除了能敲几个没用的命令，什么也干不了，更不用说在上面配服务，跑脚本，抓数据这种活了。
 

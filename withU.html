@@ -1,17 +1,19 @@
 ---
 layout: page
-title: 分组线
-<!-- group: navigation -->
-permalink: /archive
+title: withU
+group: navigation
+permalink: 
 ---
 {% include JB/setup %}
 
 
 {% for category in site.categories %} 
+{% if category[0] == "与你的时光" %}
   <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
     {% assign pages_list = category[1] %}  
     {% include JB/pages_list %}
   </ul>
+{% endif %}
 {% endfor %}
 

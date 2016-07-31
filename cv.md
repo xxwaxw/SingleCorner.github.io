@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  个人简历
+title:  职业线
 permalink: /cv
 <!-- group: navigation -->
 ---

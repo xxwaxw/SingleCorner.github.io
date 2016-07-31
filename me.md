@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me
+title: 关于我
 permalink: /ME/
 group: navigation
 ---
